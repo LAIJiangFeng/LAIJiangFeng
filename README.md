@@ -28,15 +28,6 @@
 
 ---
 
-## 📊 GitHub 动态
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LAIJiangFeng&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LAIJiangFeng&theme=transparent&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 🍁 *「江枫渔火对愁眠」—— 感谢你的来访！* 🍁
