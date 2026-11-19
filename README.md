@@ -8,6 +8,9 @@
   <a href="https://jfengl.com/">
     <img src="https://img.shields.io/badge/简历与面试平台-jfengl.com-FF6B6B?style=for-the-badge&logo=googledocs&logoColor=white" alt="简历与面试平台" />
   </a>
+  <a href="https://jfengl.cn/">
+    <img src="https://img.shields.io/badge/AI编程编排工具-Fynvra-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Fynvra" />
+  </a>
   <a href="https://laijiangfeng.github.io/jiangfeng-blog">
     <img src="https://img.shields.io/badge/个人博客-JiangFeng's_Blog-4F9DDE?style=for-the-badge&logo=githubpages&logoColor=white" alt="个人博客" />
   </a>
@@ -22,6 +25,7 @@
 ## 🌟 关于我
 
 - 📝 做了一个 **简历与面试平台**：[jfengl.com](https://jfengl.com/)，帮你写出好简历、准备好面试
+- 🚀 开发了 **Fynvra**：[jfengl.cn](https://jfengl.cn/)，一个多 Agent 协作的 AI 编程编排工具，让多个 AI Worker 并行开发、审查与合并代码
 - ✍️ 在 **个人博客** 记录学习与思考：[jiangfeng-blog](https://laijiangfeng.github.io/jiangfeng-blog)
 - 🌱 保持好奇，持续学习，热爱创造
 - 💬 欢迎交流，Star ⭐ / Issue 都很欢迎
